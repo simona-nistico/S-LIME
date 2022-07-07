@@ -1,6 +1,6 @@
-# $\mathcal{S}\text{-LIME}$
+# S-LIME
 
-This repository contains the code of the paper:
+This repository contains the code of the $\mathcal{S}\text{-LIME}$ method from the paper:
 
   *Local Interpretable Classifier Explanations with Self-generated Semantic Features*
   
